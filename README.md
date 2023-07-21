@@ -10,13 +10,8 @@ Welcome to the Resume Builder, a powerful tool designed to help job seekers crea
 
 * Real-Time Preview: See your resume update in real-time as you make changes, ensuring a seamless and efficient editing process.
 
-# Installation and Setup
-The Resume Builder is accessible through a web browser, and no installation is required. Simply visit https://www.resumebuilder.com to get started.
-
 # Contributing
 Contributions to the Resume Builder are welcome! If you have any suggestions, bug fixes, or new features to add, feel free to create an issue or submit a pull request.
 
-
-
-Acknowledgments
+# Acknowledgments
 Thank you for using the Resume Builder! We hope this tool assists you in crafting a standout resume that showcases your skills and lands you your dream job.
